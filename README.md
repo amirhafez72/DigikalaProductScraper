@@ -27,7 +27,7 @@ A simple Node.js web scraper built with Puppeteer to extract product information
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com//digikalaproductscraper.git
+git clone https://github.com/amirhafez72/digikalaproductscraper.git
 cd digikalaproductscraper
 npm install
 
